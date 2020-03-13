@@ -1,0 +1,14 @@
+{
+  "name": "ex4-carro",
+  "version": "1.0.0",
+  "description": "Exercício Carro - Orientação a Objetos TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
